@@ -136,7 +136,7 @@ class Nozes extends Fruta {
 
   @override
   void fazerMassa() {
-    print('Tirar a casa');
+    print('Tirar a casca');
     super.fazerMassa();
   }
   // @override
